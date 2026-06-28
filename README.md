@@ -8,7 +8,7 @@ Solução desenvolvida para o **Desafio 3 do haCARthon**: aumentar o entendiment
 
 ## Acessar o app
 
-- **Versão online (GitHub Pages):** https://SEU-USUARIO.github.io/cartilha-viva
+- **Versão online (GitHub Pages):** https://carmoandre2014-png.github.io/cartilha-viva
 - **Uso offline:** baixe o arquivo `index.html` e abra no navegador. Depois de carregado, funciona sem internet.
 
 ## Funcionalidades
